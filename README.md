@@ -207,4 +207,4 @@ Yamb is offered as a complete free version with all features and updates include
 Take your video editing to the next level with Yamb. **Download Yamb now and start creating!**
 
 ---
-**Last updated:** 2026-09-24 21:55:51 UTC
+**Last updated:** 2026-09-25 00:16:33 UTC
